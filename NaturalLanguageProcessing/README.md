@@ -22,11 +22,11 @@ NLP combines several disciplines, including linguistics, computer science, and a
 
 <br>
 
-## [Text Preprocessing]()
+## [Text Preprocessing](https://github.com/akashanup/ai_ml/tree/main/NaturalLanguageProcessing/TextPreprocessing)
 
-## [Word Encodings]()
+## [Word Encodings](https://github.com/akashanup/ai_ml/tree/main/NaturalLanguageProcessing/WordEncoding)
 
-## [Word Embedding]()
+## [Word Embedding](https://github.com/akashanup/ai_ml/tree/main/NaturalLanguageProcessing/WordEmbedding)
 
 ## Miscellaneous
 ### Vectors 
