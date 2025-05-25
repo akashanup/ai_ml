@@ -5,4 +5,6 @@
 2. [BlackFriday](https://github.com/akashanup/ai_ml/blob/main/ExploratoryDataAnalysis/BlackFriday)
 3. [FlightPricePrediction](https://github.com/akashanup/ai_ml/blob/main/ExploratoryDataAnalysis/FlightPricePrediction)
 
+## [Deep Learning](https://github.com/akashanup/ai_ml/tree/main/DeepLearning)
+
 ## [Natural Language Processing](https://github.com/akashanup/ai_ml/tree/main/NaturalLanguageProcessing)
