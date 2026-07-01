@@ -1,4 +1,6 @@
 # Deep Learning
+Deep learning is an advanced form of machine learning that tries to emulate the way the human brain learns. The key to deep learning is the creation of an artificial neural network that simulates electrochemical activity in biological neurons by using mathematical functions.
+
 Deep Learning is a subset of machine learning that involves algorithms inspired by the structure and function of the brain called artificial neural networks.
 ## Key Concepts
 - Neural Networks: Deep learning models are based on neural networks, which consist of layers of interconnected nodes (neurons). Each node processes input data and passes it to the next layer.
@@ -7,12 +9,15 @@ Deep Learning is a subset of machine learning that involves algorithms inspired 
 - Activation Functions: These functions determine whether a neuron should be activated or not. Common activation functions include ReLU (Rectified Linear Unit), sigmoid, and tanh.
 - Backpropagation: This is a method used to update the weights of the neural network by propagating the error backward through the network.
 - Applications: Deep learning is used in various applications such as image and speech recognition, natural language processing, autonomous vehicles, and more.
+
 ## Advantages
 - High Accuracy: Deep learning models can achieve high accuracy in tasks such as image and speech recognition.
 - Feature Learning: These models can automatically learn features from raw data, reducing the need for manual feature extraction.
+
 ## Challenges
 - Data Requirements: Deep learning models require large amounts of data to perform well.
 - Computational Resources: Training deep learning models can be computationally intensive and require powerful hardware.
+
 ## Popular Frameworks
 - TensorFlow: An open-source library developed by Google for deep learning.
 - PyTorch: An open-source library developed by Facebook's AI Research lab.
