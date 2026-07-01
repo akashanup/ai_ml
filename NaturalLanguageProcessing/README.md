@@ -28,6 +28,8 @@ NLP combines several disciplines, including linguistics, computer science, and a
 
 ## [Word Embedding](https://github.com/akashanup/ai_ml/tree/main/NaturalLanguageProcessing/WordEmbedding)
 
+## [Transformer](https://github.com/akashanup/ai_ml/tree/main/NaturalLanguageProcessing/Transformer)
+
 ## Miscellaneous
 ### Vectors 
 In the context of word encodings, vectors are numerical representations of words that capture their meanings and relationships. These vectors are used in various natural language processing (NLP) tasks to enable algorithms to understand and manipulate text data.
