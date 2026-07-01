@@ -1,0 +1,7 @@
+Here is a description of the columns in the provided dataset:
+
+AID: every entry stores a unique whole number assigned to a job applicant for the purpose of identification
+Name: every entry stores the first of an applicant
+English: every entry contains the marks obtained out of 100 in the English test by an applicant
+Mathematics: every entry contains the marks obtained out of 100 in the mathematics test by an applicant
+Programming: every entry contains the marks obtained out of 100 in the programming test by an applicant

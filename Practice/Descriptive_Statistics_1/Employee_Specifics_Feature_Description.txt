@@ -1,0 +1,10 @@
+The "Employee_Specifics.csv" data is a completely fabricated data set for use only on the upGrad platform.
+
+Any resemblance to entities past, present or future is merely a coincidence.
+
+Feature Description:
+Employee ID = unique whole number assigned to an employee for the purpose of identification
+Name = first name of the employee
+Department = department in which the employee works
+Compensation = compensation offered to the employee in rupees
+Rating = rating given on a scale of 1 to 5 to an employee based on their work

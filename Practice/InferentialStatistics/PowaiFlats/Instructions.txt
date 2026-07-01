@@ -1,0 +1,33 @@
+Let’s say you work as a data analyst at a pharma company, which manufactures an antipyretic drug (in tablet form) with paracetamol as the active ingredient. The amount of paracetamol specified by the drug regulatory authorities is 500 mg with an allowed error of 10%. Anything below 450 mg would be a quality issue for your company, as the drug would become ineffective, while anything above 550 mg would lead to a serious regulatory issue.
+
+There are 10 identical manufacturing lines in the plant, each of which produces approximately 10,000 tablets per hour. 
+
+You want to take some samples, measure the amount of paracetamol, and test if the manufacturing process is running successfully. You have the resources and time to take a sample of 100 tablets and measure the paracetamol content in each.
+
+For the 100 tablets that you took as a sample, you find that the mean paracetamol content is 530 mg and the standard deviation is 100 mg.
+
+
+Now you want to know what the average content is for all the tablets in the plant. You are thinking of reporting the average as a confidence interval, for which you are 95% confident.
+ 
+
+Please note this information in your notebook and answer the questions that follow.
+
+Question 1:
+What is the MOE (margin of error) for 95% confidence level?
+
+Question 2:
+What is the confidence interval for 95% confidence level?
+
+Question 3:
+What is the confidence interval for 90% confidence level?
+
+Question 4:
+Your boss decides to fix the monthly rent at ₹46,500 and she asks you if this is close enough to the average. She asks you to decide based on a 95% confidence level.
+Does the rent fixed by your boss (₹46,500) lie inside the 95% confidence interval for monthly rent?
+
+Question 5:
+What is the 90% confidence interval for the monthly rent in rupees?
+
+Question 6:
+What is the 99% confidence interval for the monthly rent in rupees?
+
